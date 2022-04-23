@@ -5,7 +5,7 @@ It is a terminal app which is able to encrypt and decode files. There are 7 opti
 
 -i - a name of input file
 -t - input text
-*one for -i or -t must be given for correct result
+IMPORTANT: one for -i or -t must be given for correct result
 
 -o - output flie name
 
